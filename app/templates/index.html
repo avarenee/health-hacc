@@ -5,4 +5,15 @@
 	<body>
 		<h1>Hello, {{ user.username }}</h1>
 	</body>
+        <form action="", method="post" novalidate>
+	  <p>
+		{{ form.username.label }}<br>
+		{{ form.username(size=32) }}
+          </p>
+          <p>
+		{{ form.address.label }}<br>
+		{{ form.address(size=32) }}
+          </p>
+          <p>{{ form.submit() }}</p>
+	</form>
 </html>
