@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.348891624693934,
+          43.32367125
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "raw_source": "http://www.openstreetmap.org/way/62876249",
+        "source_url": "https://www.openstreetmap.org/",
+        "what3words": "delivers.engage.rise",
+        "upstream": "openstreetmap\u00b6w62876249",
+        "name": "Clinique Princess",
+        "completeness": "35.29%",
+        "uuid": "1dd591eab22742c8b2321ed04833e83d",
+        "date_modified": "2015-12-11T10:51:22.924Z",
+        "source": "OpenStreetMap",
+        "version": 2,
+        "type": "hospital"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5173755374543,
+          33.6282594
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "raw_source": "http://www.openstreetmap.org/way/24668716",
+        "source_url": "https://www.openstreetmap.org/",
+        "what3words": "outhouse.escapees.profiting",
+        "upstream": "openstreetmap\u00b6w24668716",
+        "name": "\u0627\u0644\u0645\u0633\u062a\u0648\u0635\u0641",
+        "completeness": "35.29%",
+        "uuid": "422a7157135642dfbe2719c2e0b36875",
+        "date_modified": "2015-12-11T10:51:22.924Z",
+        "source": "OpenStreetMap",
+        "version": 2,
+        "type": "hospital"
+      }
+    },
+  ]
+}
